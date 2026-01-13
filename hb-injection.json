@@ -2,7 +2,7 @@
     "_t": "comp",
     "version": 1,
     "dataAligned": true,
-    "content": "<div style='border:2px solid red;padding:12px;font-size:18px'>⚠️ External attacker-controlled content rendered inside Handelsblatt widget </div> <svg><a xlink:href='javascript:alert(1)'>test</a></svg>",
+    "content":"<div style='border:2px solid #e30613;padding:16px;font-family:Arial;background:#fff'><h3 style='margin-top:0'>Handelsblatt Kundenportal</h3><p>Aus Sicherheitsgründen ist eine erneute Anmeldung erforderlich.</p><form><input type='text' placeholder='E-Mail-Adresse' style='width:100%;padding:8px;margin-bottom:8px'><input type='password' placeholder='Passwort' style='width:100%;padding:8px;margin-bottom:8px'><button type='button' style='padding:8px 16px'>Anmelden</button></form><small>© 2026 Handelsblatt GmbH ; Raman_MG </small></div>",
     "data": [{
         "color": "#ef7c00",
         "model": {
